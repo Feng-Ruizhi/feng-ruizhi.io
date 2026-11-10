@@ -2,7 +2,7 @@
   'use strict';
   // Local files cannot fetch the JSON feed; open the public page without local URL details.
   if(typeof window!=='undefined'&&window.location.protocol==='file:'){
-    const publicUrl='https://fengbill5112-code.github.io/cargo-news.html';
+    const publicUrl='https://feng-ruizhi.github.io/cargo-news.html';
     const panel=document.getElementById('news-status');
     if(panel){
       panel.textContent='这是本机页面，正在打开网站上的最新快讯。';
