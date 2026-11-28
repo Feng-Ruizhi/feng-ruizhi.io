@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-11-27T18:00:23+08:00",
+  "pageUpdated": "2026-11-28T09:30:16+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1994,27 +1994,6 @@
   ],
   "runs": [
     {
-      "runId": "run-20261029T093018-6e83bb5403",
-      "startedAt": "2026-10-29T09:30:18+08:00",
-      "finishedAt": "2026-10-29T09:30:23+08:00",
-      "status": "failed",
-      "regionsSearched": [],
-      "added": 0,
-      "updated": 0,
-      "unsearchedRegions": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "sourceGaps": [
-        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
-      ]
-    },
-    {
       "runId": "run-20261029T140018-74a7cb8b6f",
       "startedAt": "2026-10-29T14:00:18+08:00",
       "finishedAt": "2026-10-29T14:00:25+08:00",
@@ -3882,10 +3861,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261128T093011-ac00e057b5",
+      "startedAt": "2026-11-28T09:30:11+08:00",
+      "finishedAt": "2026-11-28T09:30:16+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261127T180018-abcd20466d",
-  "lastAttemptAt": "2026-11-27T18:00:18+08:00",
-  "lastCompletedAt": "2026-11-27T18:00:23+08:00"
+  "runId": "run-20261128T093011-ac00e057b5",
+  "lastAttemptAt": "2026-11-28T09:30:11+08:00",
+  "lastCompletedAt": "2026-11-28T09:30:16+08:00"
 }
